@@ -1,9 +1,9 @@
 body {
-  background-color: floralwhite;
+  background-color: #c9f1ff;
 }
 
 h1, a {
-  color: firebrick;
+  color: #23708a;
 }
 
 h1 {
@@ -34,7 +34,7 @@ a {
   height: 250px;
   object-fit: cover; /* maintains aspect ratio */
   border-radius: 50%;
-  border: 5px double firebrick;
+  border: 5px double #23708a;
 }
 
 /*  Link Styling  */
